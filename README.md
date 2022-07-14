@@ -31,7 +31,7 @@ Add JavaScript that:
 
 ---
 
-## Challenge 2
+## Challenge 2 COMPLETE
 
 ```js
 const breedUrl = 'https://dog.ceo/api/breeds/list/all'
@@ -44,7 +44,7 @@ After the first challenge is completed, add JavaScript that:
 
 ---
 
-## Challenge 3
+## Challenge 3 COMPLETE
 
 Once all of the breeds are rendered in the `<ul>`, add JavaScript so that, when
 the user clicks on any one of the `<li>`s, the font color of that `<li>`
