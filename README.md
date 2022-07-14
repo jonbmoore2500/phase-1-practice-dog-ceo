@@ -15,7 +15,7 @@ behavior to the list elements and implement a filter.
 requirements described below and verifying that your code is working correctly
 in the browser.
 
-## Challenge 1
+## Challenge 1 COMPLETE
 
 This repository includes an `index.html` file that loads an `index.js` file.
 
